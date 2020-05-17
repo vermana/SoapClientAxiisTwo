@@ -9,6 +9,8 @@ import com.bix.soap.ws.CalcServiceStub.AddResponse;
 
 public class TestClient {
 
+	
+	//Main client
 	public static void main(String[] args) throws RemoteException {
 		// TODO Auto-generated method stub
 		
